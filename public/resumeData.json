@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name": "Natalia Haronitou",
+    "description": "Business Graduate by Day, Aspiring Techie By Night",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Natalia. I'm a Business Graduate currently exploring a newfound passion, technology. By doing so, I hope to gain the knowledge & capability to reposition myself within the tech-universe.",
+    "contactmessage": "Get in touch with me to receive further details, get to know me or anything else.",
+    "email": "natalia@haronitou.com",
+    "phone": "+1 757 524 9700",
+    "address": {
+      "street": "P.O. Box 714",
+      "city": "Yorktown",
+      "state": "VA",
+      "zip": "23692"
+    },
+    "website": "https://www.nataliaharonitou.com",
+    "resumedownload": "https://drive.google.com/file/d/1BP-OrvA6fPuYP9_zl76rfTDlrdU8hJxP/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwimq_-J3LXtAhVBw1kKHdtiBrMQFjAAegQIAxAC&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnatalieharonitou&usg=AOvVaw3SrxS3eS1FXHKo8zvWtx5t/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/c/HaronitouHaronitou/featured/",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/nataliaharonitou",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/haronitou/",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Virginia Wesleyan University",
+        "degree": "Masters in Business Administration",
+        "graduated": "December 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "certifications": [
+      {
+        "cert": "Certified Associate in Project Management (CAPM)®",
+        "description": "A credential offered by the Project Management Institute (PMI) to demonstrate knowledge in project management methodologies and best practices.",
+
+        "cert1": "Cisco Certified Network Associate (CCNA)®",
+        "description1": "Earners of Cisco CCNA - Implementing and Administering Cisco Solutions (CCNA) have demonstrated knowledge and skills related to network fundamentals, network access, IP connectivity, IP services, security fundamentals, and automation and programmability.",
+       
+        "cert2": "Microsoft Certified: Azure AI Fundamentals",
+        "description2": "Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.",
+
+        "cert3": "Microsoft Certified: Azure Administrator Associate",
+        "description3": "Earning the Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.",
+
+        "cert4": "AWS Certified Solutions Architect – Associate",   
+        "description4": "Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.",
+
+        "cert5":  "Linux Professional Institute(LPI): Linux Essentials",
+        "description5": "Linux Professional Institute Linux Essentials certificate demonstrates the candidate’s ability to use a basic command-line editor and demonstrate an understanding of processes, programs and components of the Linux operating system.",
+
+        "cert6": "IBM Applied AI Professional Certificate",
+        "description6": "Earner has a firm understanding of AI, its applications and use cases, and is familiar with IBM Watson AI services and APIs. They can create AI driven chatbots and have gained practical Python skills to work with AI. They can use IBM Watson AI services and APIs to design, build & deploy AI-powered applications on the web. They are proficient in applying AI and building AI solutions.",
+
+        "cert7": "IBM AI Engineering Professional Certificate",
+        "description7": "Demonstrates proficiency in Machine Learning (ML) and Deep Learning (DL). The earner understands various ML techniques such as regression, classification, clustering & recommender systems and is able to scale ML on Big Data using Apache Spark.  The earner is able to build, test & deploy DL models using libraries such as Keras, PyTorch & Tensorflow. The earner has completed several ML & DL projects and is now armed with skills for starting a career in AI Engineering.",
+
+        "cert8": "Data Visualization with Tableau Specialization: University of California, Davis",
+        "description8": "Offered by UC Davis in collaboration with Tableau: demonstrates knowledge of the fundamentals of data visualization, including how to use the Tableau software in a professional business setting."
+      }
+    ],
+    "work": [
+      {
+        "company": "Haronitou LLC",
+        "title": "Founder",
+        "years": "November 2016 - Present",
+        "description": "Research topics and create content the organization is passionate about; conduct keyword research and use SEO guidelines to optimize content; promote content on social platforms and monitor engagement"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Analytical Thinking",
+        "level": "100%"
+      },
+      {
+        "name": "Project Management",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe Suite",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "30%"
+      },
+      {
+        "name": "Cloud",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Twitter Clone with React",
+        "category": "Twitter Clone built with ReactJS",
+        "image": "Twittter.jpg",
+        "url": "https://www.youtube.com/watch?v=6upsSRLfoSI"
+      },
+      {
+        "title": "Amazon Price Tracker with Python",
+        "category": "Web scrapper built with Python && Selenium",
+        "image": "Price.jpg",
+        "url": "https://www.youtube.com/watch?v=FxsHAk4u_l0"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Full-stack Amazon Clone built with ReactJS",
+        "image": "AmazonClone.jpg",
+        "url": "https://www.youtube.com/watch?v=dwTD-vN7Fa0"
+      },
+      {
+        "title": "Face Detection",
+        "category": "Face Detection built with Python && OpenCV",
+        "image": "FaceDetection.jpg",
+        "url": "https://www.youtube.com/watch?v=dVJBaV-4dFw"
+      },
+      {
+        "title": "My Personal Porfolio",
+        "category": "Portfolio built with ReactJS",
+        "image": "Portfolio.jpg",
+        "url": "https://github.com/NataliaHaronitou/Portfolio-With-React"
+
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+
+
+
+
+        "text": "Natalia reminds you just how special comradery & laughter can be within a group... especially when getting through difficult projects.",
+        "user": "Usama Saleem"
+
+        
+      }
+    ]
+  }
+}
