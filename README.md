@@ -1,8 +1,5 @@
 # Natalia's Portfolio 
 
-## 👇 WATCH THIS FIRST 👇
-## https://tinyurl.com/customizeReactPortfolio
-
 ## Description
 This is a ReactJS based personal resume website 
 
@@ -25,4 +22,3 @@ This is a ReactJS based personal resume website
 HTML Design Template
 <a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
 
-# Portfolio
